@@ -1,1 +1,5 @@
-synthese
+# Tout les modules de nodesjs
+node_modules
+#Tout les packages de json
+package-lock.json
+package.json
